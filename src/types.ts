@@ -1,0 +1,1 @@
+export type AppStatus = "login" | "home" | "search" | "favorite" | "playlist"
